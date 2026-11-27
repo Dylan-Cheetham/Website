@@ -2,6 +2,10 @@ body{
     background-color: #d9d9d9;
 }
 
+header{
+    background-color: #757070;
+}
+
 h1{
     color: #48f503;
     text-align: left;
